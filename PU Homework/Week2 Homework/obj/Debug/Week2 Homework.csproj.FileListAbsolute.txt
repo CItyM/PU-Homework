@@ -4,3 +4,9 @@ D:\Xamarin\Book projs\Week2 Homework\Week2 Homework\bin\Debug\Week2 Homework.pdb
 D:\Xamarin\Book projs\Week2 Homework\Week2 Homework\obj\Debug\Week2 Homework.csprojResolveAssemblyReference.cache
 D:\Xamarin\Book projs\Week2 Homework\Week2 Homework\obj\Debug\Week2 Homework.exe
 D:\Xamarin\Book projs\Week2 Homework\Week2 Homework\obj\Debug\Week2 Homework.pdb
+D:\GitHubRep\PU-Homework\PU Homework\Week2 Homework\bin\Debug\Week2 Homework.exe.config
+D:\GitHubRep\PU-Homework\PU Homework\Week2 Homework\bin\Debug\Week2 Homework.exe
+D:\GitHubRep\PU-Homework\PU Homework\Week2 Homework\bin\Debug\Week2 Homework.pdb
+D:\GitHubRep\PU-Homework\PU Homework\Week2 Homework\obj\Debug\Week2 Homework.csprojResolveAssemblyReference.cache
+D:\GitHubRep\PU-Homework\PU Homework\Week2 Homework\obj\Debug\Week2 Homework.exe
+D:\GitHubRep\PU-Homework\PU Homework\Week2 Homework\obj\Debug\Week2 Homework.pdb
