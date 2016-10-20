@@ -1,0 +1,6 @@
+D:\GitHubRep\PU-Homework\PU Homework\Week3 Homework\bin\Debug\Week3 Homework.exe.config
+D:\GitHubRep\PU-Homework\PU Homework\Week3 Homework\bin\Debug\Week3 Homework.exe
+D:\GitHubRep\PU-Homework\PU Homework\Week3 Homework\bin\Debug\Week3 Homework.pdb
+D:\GitHubRep\PU-Homework\PU Homework\Week3 Homework\obj\Debug\Week3 Homework.csprojResolveAssemblyReference.cache
+D:\GitHubRep\PU-Homework\PU Homework\Week3 Homework\obj\Debug\Week3 Homework.exe
+D:\GitHubRep\PU-Homework\PU Homework\Week3 Homework\obj\Debug\Week3 Homework.pdb
